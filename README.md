@@ -81,8 +81,8 @@ LMS_APP/
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/LMS.git
-cd LMS
+git clone https://github.com/CyberWarrior1001/E-Learning-Platform-Udemy-Like-MERN-Stack-project.git
+cd E-Learning-Platform-Udemy-Like-MERN-Stack-project
 ```
 
 ---
